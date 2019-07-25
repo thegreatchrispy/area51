@@ -1,0 +1,1 @@
+This repo contains the codebase for an Area 51 social media site.
